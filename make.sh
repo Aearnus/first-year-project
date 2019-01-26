@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc -Wall -g -o selflove selflove.c
+gcc -Wall -o selflove selflove.c

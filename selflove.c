@@ -13,7 +13,7 @@ unsigned int maps_length = 0;
 
 void make_snapshot(unsigned int i, FILE* mem_file) {
   char output_filename[128];
-  snprintf(output_filename, 128, "%0iselflove.out", i);
+  snprintf(output_filename, 128, "%04iselflove.out", i);
   FILE* output_file = fopen(output_filename, "w");
 
   for (unsigned int curr_map = 0; curr_map < maps_length; curr_map++) {
@@ -48,11 +48,14 @@ int main() {
 
   //remove the syscall map
   maps_length--;
-  
+
+  //make the memory output files
   char mem_filename[128];
-  snprintf(mem_filename, 128, "/proc/%d/mem", pid); 
-  FILE* mem_file = fopen(mem_filename, "r");
-  make_snapshot(0, mem_file);
-  fclose(mem_file);
+  snprintf(mem_filename, 128, "/proc/%d/mem", pid);
+  for (unsigned int iteration = 0; iteration < 128; iteration++) {
+	FILE* mem_file = fopen(mem_filename, "r");
+	make_snapshot(iteration, mem_file);
+	fclose(mem_file);
+  }
   return 1;
 }

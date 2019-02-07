@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'oily_png'
 
 if ARGV.length < 1

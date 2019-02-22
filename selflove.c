@@ -67,8 +67,8 @@ int main() {
   //read the maps into memory
   FILE* maps_file = get_maps_file(pid);
   struct region temp_region;
-  char temp_map_string[128];
-  while (fgets(temp_map_string, 128, maps_file) != NULL) {
+  char temp_map_string[256];
+  while (fgets(temp_map_string, 256, maps_file) != NULL) {
 	// GET_PROCESS_NAME INTENTIONALLY LEAKS MEMORY HERE. IT SHOULD BE free'd NORMALLY.
 	if (filter_map_line(temp_map_string, get_process_name(pid))) {
 	  sscanf(temp_map_string, "%12lx-%12lx", &temp_region.start, &temp_region.end);

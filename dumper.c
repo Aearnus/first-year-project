@@ -13,7 +13,7 @@ unsigned int maps_length = 0;
 
 void make_snapshot(unsigned int i, FILE* mem_file) {
   char output_filename[128];
-  snprintf(output_filename, 128, "%04iselflove.out", i);
+  snprintf(output_filename, 128, "%04idumper.out", i);
   FILE* output_file = fopen(output_filename, "w");
   if (output_file == NULL) {
 	puts("output_file is bad");
@@ -45,8 +45,10 @@ char* get_process_name(pid_t pid) {
 
 int filter_map_line(char* map_line, char* process_name) {
   map_line = map_line + 73;
-  printf("checking memory map of file %s against %s\n", map_line, process_name);
-  return ((strstr(map_line, process_name) != NULL) || (strstr(map_line, "[stack]") != NULL));
+  //printf("checking memory map of file %s against %s\n", map_line, process_name);
+  printf("checking memory map %s for \"stack\" or \"heap\"\n", map_line, process_name);
+  //return ((strstr(map_line, process_name) != NULL) || (strstr(map_line, "[stack]") != NULL));
+  return ((strstr(map_line, "[heap]") != NULL) || (strstr(map_line, "[stack]") != NULL));
 }
 
 FILE* get_mem_file(pid_t pid) {
@@ -66,13 +68,13 @@ int main(int argc, char** argv) {
 	puts("usage: dumper <pid>");
 	return 1;
   } else {
-	pid_t pid = getpid();
-  
+	pid_t pid = atoi(argv[1]);
+	
 	//read the maps into memory
 	FILE* maps_file = get_maps_file(pid);
 	struct region temp_region;
-	char temp_map_string[128];
-	while (fgets(temp_map_string, 128, maps_file) != NULL) {
+	char temp_map_string[256];
+	while (fgets(temp_map_string, 256, maps_file) != NULL) {
 	  // GET_PROCESS_NAME INTENTIONALLY LEAKS MEMORY HERE. IT SHOULD BE free'd NORMALLY.
 	  if (filter_map_line(temp_map_string, get_process_name(pid))) {
 		sscanf(temp_map_string, "%12lx-%12lx", &temp_region.start, &temp_region.end);
@@ -92,6 +94,7 @@ int main(int argc, char** argv) {
 	  FILE* mem_file = get_mem_file(pid);
 	  make_snapshot(iteration, mem_file);
 	  fclose(mem_file);
+	  sleep(2);
 	}
 	return 0;
   }

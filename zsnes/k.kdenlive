@@ -1,0 +1,2568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="6.6.0" root="/home/tyler/college/first-year-project/zsnes" producer="main bin" LC_NUMERIC="en_US.UTF-8">
+ <profile width="1920" frame_rate_den="1001" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30000" colorspace="709" sample_aspect_den="1" description="HD 1080p 29.97 fps" progressive="1" sample_aspect_num="1"/>
+ <producer id="1" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0000dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">329001</property>
+  <property name="kdenlive:file_hash">071e1ed7d78fae6c43c0c8c9f76f7108</property>
+ </producer>
+ <producer id="2" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0001dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">328695</property>
+  <property name="kdenlive:file_hash">9cbbe1471ca42f7c0c07f08aa9dcd554</property>
+ </producer>
+ <producer id="3" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0002dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">290402</property>
+  <property name="kdenlive:file_hash">e9aaed4ecb4a3474edcb95f62dd6aea3</property>
+ </producer>
+ <producer id="4" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0003dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">392806</property>
+  <property name="kdenlive:file_hash">43e8602d7ba9aa936c486965a4ae5db5</property>
+ </producer>
+ <producer id="5" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0004dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">393917</property>
+  <property name="kdenlive:file_hash">c08078fb78a691cb384d887ad1ec1d2f</property>
+ </producer>
+ <producer id="6" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0005dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">341200</property>
+  <property name="kdenlive:file_hash">6e48eee278b06ea85fc2611f1b69bfcb</property>
+ </producer>
+ <producer id="7" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0006dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">301137</property>
+  <property name="kdenlive:file_hash">47e5ce8898c939577847834f62f43975</property>
+ </producer>
+ <producer id="8" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0007dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">296759</property>
+  <property name="kdenlive:file_hash">65f01b33af98cc42fb400e53e5bee3d4</property>
+ </producer>
+ <producer id="9" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0008dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">298353</property>
+  <property name="kdenlive:file_hash">7ae8fcecf10177905273660608281770</property>
+ </producer>
+ <producer id="10" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0009dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">289856</property>
+  <property name="kdenlive:file_hash">2d89b53ef3b8b26695c9408de18ebfe9</property>
+ </producer>
+ <producer id="11" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0010dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">332462</property>
+  <property name="kdenlive:file_hash">f4fcdff800dad6aebfcfdc0c430c9b03</property>
+ </producer>
+ <producer id="12" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0011dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">331562</property>
+  <property name="kdenlive:file_hash">199ea12379ca1d50e638a0f0ff72bde7</property>
+ </producer>
+ <producer id="13" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0012dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">289890</property>
+  <property name="kdenlive:file_hash">2fcc8cacdfc18a88331c0d4a7f454c1f</property>
+ </producer>
+ <producer id="14" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0013dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352650</property>
+  <property name="kdenlive:file_hash">74e5656c9757d9ca743de54a6758ce38</property>
+ </producer>
+ <producer id="15" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0014dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">350381</property>
+  <property name="kdenlive:file_hash">96aaf1727d4650bad3fe1fa3c0b58044</property>
+ </producer>
+ <producer id="16" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0015dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">346990</property>
+  <property name="kdenlive:file_hash">6ec098133af5ceae7230c90dbbb86be6</property>
+ </producer>
+ <producer id="17" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0016dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">299653</property>
+  <property name="kdenlive:file_hash">fd3a19d2bdafab1267c5798d770f0a9b</property>
+ </producer>
+ <producer id="18" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0017dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357619</property>
+  <property name="kdenlive:file_hash">e6cc93580bd417f76155eda1558a19b9</property>
+ </producer>
+ <producer id="19" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0018dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">356716</property>
+  <property name="kdenlive:file_hash">e96aa66f325ffb6e7c0b39e9b440c737</property>
+ </producer>
+ <producer id="20" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0019dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">356886</property>
+  <property name="kdenlive:file_hash">40672d7b1b0755e98c2de0f6bd71cf14</property>
+ </producer>
+ <producer id="21" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0020dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">355997</property>
+  <property name="kdenlive:file_hash">7280ec080e0c24099405be295acf01c6</property>
+ </producer>
+ <producer id="22" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0021dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357553</property>
+  <property name="kdenlive:file_hash">fabf2ec12571e8ba9089088167ed6e37</property>
+ </producer>
+ <producer id="23" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0022dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">358347</property>
+  <property name="kdenlive:file_hash">d59ded65d0a98d9707798be38efbd639</property>
+ </producer>
+ <producer id="24" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0023dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">358924</property>
+  <property name="kdenlive:file_hash">52f776942a79aac805e8bcfcad0d706e</property>
+ </producer>
+ <producer id="25" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0024dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">359714</property>
+  <property name="kdenlive:file_hash">7610d8f7f45f901945950adaa363644c</property>
+ </producer>
+ <producer id="26" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0025dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357420</property>
+  <property name="kdenlive:file_hash">4c300f3cbfa63cd1faa6bc95ef8a32b0</property>
+ </producer>
+ <producer id="27" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0026dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">358316</property>
+  <property name="kdenlive:file_hash">8d681d97eb637e012df9074f52eee827</property>
+ </producer>
+ <producer id="28" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0027dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">358012</property>
+  <property name="kdenlive:file_hash">89c76c919fae1432ca61845f2f002e68</property>
+ </producer>
+ <producer id="29" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0028dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">363787</property>
+  <property name="kdenlive:file_hash">3e3e7185df95e96f0f9b33c248f4e934</property>
+ </producer>
+ <producer id="30" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0029dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">362973</property>
+  <property name="kdenlive:file_hash">56762370feee20a1df91c44354697077</property>
+ </producer>
+ <producer id="31" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0030dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">359543</property>
+  <property name="kdenlive:file_hash">ac8c9843199c5ff574ae6031e946cade</property>
+ </producer>
+ <producer id="32" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0031dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">359699</property>
+  <property name="kdenlive:file_hash">ebacab066bf08d0986777d1a787db241</property>
+ </producer>
+ <producer id="33" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0032dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">363955</property>
+  <property name="kdenlive:file_hash">02b7828c8a1377fcfad193d7609349cb</property>
+ </producer>
+ <producer id="34" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0033dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357572</property>
+  <property name="kdenlive:file_hash">69cbd5c085022d064314cada2a93f889</property>
+ </producer>
+ <producer id="35" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0034dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">363367</property>
+  <property name="kdenlive:file_hash">b75c7ed940561165a90d5841a436c65c</property>
+ </producer>
+ <producer id="36" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0035dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">300026</property>
+  <property name="kdenlive:file_hash">2257b46e484b76f6b90da567173955c4</property>
+ </producer>
+ <producer id="37" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0036dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360525</property>
+  <property name="kdenlive:file_hash">8ef5ad7ab29caac7fa68d8ba79a28c51</property>
+ </producer>
+ <producer id="38" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0037dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360706</property>
+  <property name="kdenlive:file_hash">78629a32c48f8f32b2bb5f17c3da9cde</property>
+ </producer>
+ <producer id="39" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0038dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360775</property>
+  <property name="kdenlive:file_hash">90b42483ee4234bd040ef659f5403d4f</property>
+ </producer>
+ <producer id="40" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0039dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">331688</property>
+  <property name="kdenlive:file_hash">5da0821ac3488c6cc052065d10af3c72</property>
+ </producer>
+ <producer id="41" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0040dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360722</property>
+  <property name="kdenlive:file_hash">a5479ac4956dbf6f363b6515bd60c96a</property>
+ </producer>
+ <producer id="42" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0041dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360417</property>
+  <property name="kdenlive:file_hash">dc8ca83f46224b0ff325fc438d9d1c59</property>
+ </producer>
+ <producer id="43" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0042dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360483</property>
+  <property name="kdenlive:file_hash">3e07de0d5d8698e84d7972b2d5754dd8</property>
+ </producer>
+ <producer id="44" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0043dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360065</property>
+  <property name="kdenlive:file_hash">361c2dfa56f4f7c7b318699dc6385c83</property>
+ </producer>
+ <producer id="45" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0044dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">300043</property>
+  <property name="kdenlive:file_hash">f15386f7809e008e62a84ba1f75aad89</property>
+ </producer>
+ <producer id="46" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0045dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">368641</property>
+  <property name="kdenlive:file_hash">4b6fa92f2ee772b06fbbb626e1f37c50</property>
+ </producer>
+ <producer id="47" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0046dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">359991</property>
+  <property name="kdenlive:file_hash">ea22190fc09d390e3f59e33260443ccb</property>
+ </producer>
+ <producer id="48" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0047dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">359952</property>
+  <property name="kdenlive:file_hash">6f69b68a6c4640de9bc6669f617ea8fb</property>
+ </producer>
+ <producer id="49" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0048dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">361148</property>
+  <property name="kdenlive:file_hash">7b03bebea1a178c07684d589cd54ed99</property>
+ </producer>
+ <producer id="50" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0049dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357935</property>
+  <property name="kdenlive:file_hash">92c528590f03578e976089f02657b8ce</property>
+ </producer>
+ <producer id="51" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0050dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357767</property>
+  <property name="kdenlive:file_hash">f1fd8b8644fc131e95b030e3c4c8c5d2</property>
+ </producer>
+ <producer id="52" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0051dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">358808</property>
+  <property name="kdenlive:file_hash">85bd57e932dfa62dd8c8a7633ccb94ba</property>
+ </producer>
+ <producer id="53" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0052dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">355997</property>
+  <property name="kdenlive:file_hash">8b40c5c49a11d9f88d7fdc5cce02034f</property>
+ </producer>
+ <producer id="54" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0053dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">355461</property>
+  <property name="kdenlive:file_hash">b8fd75350efe47a3156b3c273cf67486</property>
+ </producer>
+ <producer id="55" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0054dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">299904</property>
+  <property name="kdenlive:file_hash">c357189a5b9b74972bef8347770035e5</property>
+ </producer>
+ <producer id="56" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0055dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">367949</property>
+  <property name="kdenlive:file_hash">d6e2ea237c2b08de97872faecfcc8d11</property>
+ </producer>
+ <producer id="57" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0056dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">370411</property>
+  <property name="kdenlive:file_hash">38627e9f00bc0a2060bd17af727adb3e</property>
+ </producer>
+ <producer id="58" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0057dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">375059</property>
+  <property name="kdenlive:file_hash">6b98fce96a640f87df14ff2e37370982</property>
+ </producer>
+ <producer id="59" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0058dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">366241</property>
+  <property name="kdenlive:file_hash">87b0529227ed6e0367a40697227806e8</property>
+ </producer>
+ <producer id="60" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0059dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">368372</property>
+  <property name="kdenlive:file_hash">c8a4ddb9f22796910f91908fa88fb09c</property>
+ </producer>
+ <producer id="61" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0060dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">371161</property>
+  <property name="kdenlive:file_hash">7b94a3ec861340d87af12839127f08bc</property>
+ </producer>
+ <producer id="62" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0061dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">369330</property>
+  <property name="kdenlive:file_hash">c465eef28b11caef01b15115f1c6dd43</property>
+ </producer>
+ <producer id="63" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0062dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">369817</property>
+  <property name="kdenlive:file_hash">f5057d0e153ee4cecd3f2d3780f5098d</property>
+ </producer>
+ <producer id="64" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0063dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">371411</property>
+  <property name="kdenlive:file_hash">08284af4da8fd0a304ac919c1107bc6f</property>
+ </producer>
+ <producer id="65" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0064dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">376258</property>
+  <property name="kdenlive:file_hash">084007675b59592f51ece1c0c81dec3c</property>
+ </producer>
+ <producer id="66" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0065dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">376919</property>
+  <property name="kdenlive:file_hash">0eeb92377af788582adf64477092ce49</property>
+ </producer>
+ <producer id="67" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0066dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">381632</property>
+  <property name="kdenlive:file_hash">3cc4baa1619dda0f1f29c681c2c782c8</property>
+ </producer>
+ <producer id="68" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0067dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">379667</property>
+  <property name="kdenlive:file_hash">2c0e61af094bac6b5a8a303a412e0b6d</property>
+ </producer>
+ <producer id="69" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0068dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">379949</property>
+  <property name="kdenlive:file_hash">87962a7d498de90ea4aea17e9a70ca8d</property>
+ </producer>
+ <producer id="70" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0069dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">381661</property>
+  <property name="kdenlive:file_hash">13c2f515a8df41fc3f8ceb5fc190d9f1</property>
+ </producer>
+ <producer id="71" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0070dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">385354</property>
+  <property name="kdenlive:file_hash">b521caa9e03ef51c1d0fcd98c31b32ba</property>
+ </producer>
+ <producer id="72" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0071dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">379278</property>
+  <property name="kdenlive:file_hash">7236cf37eabc1d5bea800352b9e3f2fe</property>
+ </producer>
+ <producer id="73" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0072dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">375905</property>
+  <property name="kdenlive:file_hash">6e686e9a7cbbb3c05fbc08111c6f44f3</property>
+ </producer>
+ <producer id="74" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0073dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">372605</property>
+  <property name="kdenlive:file_hash">cbeb1b808c77fcb7c3949310dcf2d987</property>
+ </producer>
+ <producer id="75" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0074dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">351047</property>
+  <property name="kdenlive:file_hash">449cb32a4dede8c407c09d0345022694</property>
+ </producer>
+ <producer id="76" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0075dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">370639</property>
+  <property name="kdenlive:file_hash">ff3842488e1a5a659d09e85778696227</property>
+ </producer>
+ <producer id="77" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0076dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">349012</property>
+  <property name="kdenlive:file_hash">8fa4bbf6bb01fdcb89fef8fcf488c414</property>
+ </producer>
+ <producer id="78" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0077dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">374228</property>
+  <property name="kdenlive:file_hash">3ed22954b61eb3cee744e0cc91be31eb</property>
+ </producer>
+ <producer id="79" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0078dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">380234</property>
+  <property name="kdenlive:file_hash">94fd3279b06e4235bc3e6225729dd1ac</property>
+ </producer>
+ <producer id="80" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0079dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">374511</property>
+  <property name="kdenlive:file_hash">9871d47e69845e0e9379293b831862b5</property>
+ </producer>
+ <producer id="81" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0080dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">369835</property>
+  <property name="kdenlive:file_hash">e55f9587e484dd494cef470c919f512f</property>
+ </producer>
+ <producer id="82" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0081dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">299032</property>
+  <property name="kdenlive:file_hash">ec9eab869134bf94edc477ef2131afd5</property>
+ </producer>
+ <producer id="83" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0082dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352835</property>
+  <property name="kdenlive:file_hash">168e2c57b0a115b9facd66c6626a7ceb</property>
+ </producer>
+ <producer id="84" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0083dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">353434</property>
+  <property name="kdenlive:file_hash">415115908ad8e37faaabbbf03c2b56a0</property>
+ </producer>
+ <producer id="85" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0084dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">351139</property>
+  <property name="kdenlive:file_hash">2900589bf2f35dde9f6ee0993ecf412a</property>
+ </producer>
+ <producer id="86" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0085dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352211</property>
+  <property name="kdenlive:file_hash">e08a53708661b6f45b85c6c83609534a</property>
+ </producer>
+ <producer id="87" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0086dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">354385</property>
+  <property name="kdenlive:file_hash">4569436a1e7e54a1d4ed7ade6e42986b</property>
+ </producer>
+ <producer id="88" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0087dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">354192</property>
+  <property name="kdenlive:file_hash">fb14d073444827390fc024becbfc751f</property>
+ </producer>
+ <producer id="89" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0088dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">356318</property>
+  <property name="kdenlive:file_hash">832690b8293a4fde972e8f3733c6ecf7</property>
+ </producer>
+ <producer id="90" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0089dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">356391</property>
+  <property name="kdenlive:file_hash">5553e292b4b85ab34e9c12f4ddf6d04a</property>
+ </producer>
+ <producer id="91" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0090dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360023</property>
+  <property name="kdenlive:file_hash">512e917f9a3b1bd750fabd0c3c10ec91</property>
+ </producer>
+ <producer id="92" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0091dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">354958</property>
+  <property name="kdenlive:file_hash">139c69d09632cd37655f241d9ad8e828</property>
+ </producer>
+ <producer id="93" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0092dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">354447</property>
+  <property name="kdenlive:file_hash">5c78cb7c03f29d57b82c24fe18e6ff02</property>
+ </producer>
+ <producer id="94" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0093dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357253</property>
+  <property name="kdenlive:file_hash">f96fb8c9f90ed0c195237713e78c6d0b</property>
+ </producer>
+ <producer id="95" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0094dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357810</property>
+  <property name="kdenlive:file_hash">d561503e215b90b95cd87c52d25bfc9c</property>
+ </producer>
+ <producer id="96" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0095dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">327571</property>
+  <property name="kdenlive:file_hash">07a156e7a4e1c1f716b561553122f2c7</property>
+ </producer>
+ <producer id="97" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0096dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">354045</property>
+  <property name="kdenlive:file_hash">baa084824334df24c0b9d458495cd238</property>
+ </producer>
+ <producer id="98" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0097dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">351314</property>
+  <property name="kdenlive:file_hash">25b2ff31c34000c273dbe8a7efaf99fe</property>
+ </producer>
+ <producer id="99" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0098dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352285</property>
+  <property name="kdenlive:file_hash">bda86901cc6d6d84d73b770b7f34e5fc</property>
+ </producer>
+ <producer id="100" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0099dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">357902</property>
+  <property name="kdenlive:file_hash">3bfe3930e7fbc0f360552708d7b893ff</property>
+ </producer>
+ <producer id="101" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0100dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">355045</property>
+  <property name="kdenlive:file_hash">bd9924d89ab7022c4bd34fdf6bbbc91c</property>
+ </producer>
+ <producer id="102" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0101dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">356915</property>
+  <property name="kdenlive:file_hash">5895eac1af89148528e0a1070465babf</property>
+ </producer>
+ <producer id="103" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0102dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352662</property>
+  <property name="kdenlive:file_hash">f2d66f4269246a825d89b09426a3b737</property>
+ </producer>
+ <producer id="104" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0103dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">351562</property>
+  <property name="kdenlive:file_hash">6904168cdba49221d67ef4a835a8839e</property>
+ </producer>
+ <producer id="105" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0104dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">351792</property>
+  <property name="kdenlive:file_hash">9ddedde55cea046909c795875bc1e73e</property>
+ </producer>
+ <producer id="106" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0105dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">351178</property>
+  <property name="kdenlive:file_hash">e2bd4ca1af74f859160a552451eb1bc3</property>
+ </producer>
+ <producer id="107" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0106dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352678</property>
+  <property name="kdenlive:file_hash">d174621e0d5b00bdb7def1a45254264a</property>
+ </producer>
+ <producer id="108" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0107dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">352369</property>
+  <property name="kdenlive:file_hash">7282d66c32aa688346b40c6b732fb1a8</property>
+ </producer>
+ <producer id="109" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0108dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">353395</property>
+  <property name="kdenlive:file_hash">cf3182bd919c1e6c51e983b791d887f9</property>
+ </producer>
+ <producer id="110" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0109dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">350868</property>
+  <property name="kdenlive:file_hash">c88648aed9931b889c609370a25d5233</property>
+ </producer>
+ <producer id="111" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0110dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">353171</property>
+  <property name="kdenlive:file_hash">f9f6bdeb26ee1d3a53f52a89415f049f</property>
+ </producer>
+ <producer id="112" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0111dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1477</property>
+  <property name="meta.media.height">1477</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">290837</property>
+  <property name="kdenlive:file_hash">85b3d74ac810c6ea93e646e94acd45cc</property>
+ </producer>
+ <producer id="113" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0112dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">336640</property>
+  <property name="kdenlive:file_hash">0f9c223a6275d2a28058b96018cc3f98</property>
+ </producer>
+ <producer id="114" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0113dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">329107</property>
+  <property name="kdenlive:file_hash">12a2f68546651b1ecb5b1ef7f83e412d</property>
+ </producer>
+ <producer id="115" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0114dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">335696</property>
+  <property name="kdenlive:file_hash">4e863d8aab977b15de6a08e2400d6c44</property>
+ </producer>
+ <producer id="116" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0115dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">329782</property>
+  <property name="kdenlive:file_hash">7fd79dfc403fed152d16588e895c69f9</property>
+ </producer>
+ <producer id="117" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0116dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">342811</property>
+  <property name="kdenlive:file_hash">1c1b640bad685a26d352b0108c96945e</property>
+ </producer>
+ <producer id="118" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0117dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">335380</property>
+  <property name="kdenlive:file_hash">522ea8c1162720153e8ace6c7ddde5f0</property>
+ </producer>
+ <producer id="119" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0118dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360597</property>
+  <property name="kdenlive:file_hash">147280f96d9f852c8c208a1fc4a21d6d</property>
+ </producer>
+ <producer id="120" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0119dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">363602</property>
+  <property name="kdenlive:file_hash">8a2bccc1b47c581f4b0771f7083c9266</property>
+ </producer>
+ <producer id="121" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0120dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">364538</property>
+  <property name="kdenlive:file_hash">d9ac97fbc4bef42559fb98c5ead53ae4</property>
+ </producer>
+ <producer id="122" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0121dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">369388</property>
+  <property name="kdenlive:file_hash">036e2604088cc5714e42bf77c6c0bb78</property>
+ </producer>
+ <producer id="123" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0122dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">367136</property>
+  <property name="kdenlive:file_hash">119534c54492b34baec5f6747ef41f35</property>
+ </producer>
+ <producer id="124" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0123dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">366865</property>
+  <property name="kdenlive:file_hash">67d92a5ab3f6f8d4344ad28f69bc403f</property>
+ </producer>
+ <producer id="125" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0124dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">363648</property>
+  <property name="kdenlive:file_hash">3d3ef2de6c592fddd814d7cfbfb5f8f0</property>
+ </producer>
+ <producer id="126" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0125dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">365826</property>
+  <property name="kdenlive:file_hash">f53e8ddfce63042300b8f24a3ffa709d</property>
+ </producer>
+ <producer id="127" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0126dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">363098</property>
+  <property name="kdenlive:file_hash">4a51131308007df41ca754442da62bb6</property>
+ </producer>
+ <producer id="128" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">0127dumper.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1563</property>
+  <property name="meta.media.height">1563</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">360389</property>
+  <property name="kdenlive:file_hash">767f7d5413a35d412278f8aad451b19f</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:docproperties.audiotargettrack">2</property>
+  <property name="kdenlive:docproperties.decimalPoint">.</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1550884046818</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
+  <property name="kdenlive:docproperties.position">4855</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_2997</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf scale=640:-1 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.version">0.96</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videotargettrack">3</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups"/>
+  <property name="xml_retain">1</property>
+  <entry out="149" producer="1" in="0"/>
+  <entry out="149" producer="2" in="0"/>
+  <entry out="149" producer="3" in="0"/>
+  <entry out="149" producer="4" in="0"/>
+  <entry out="149" producer="5" in="0"/>
+  <entry out="149" producer="6" in="0"/>
+  <entry out="149" producer="7" in="0"/>
+  <entry out="149" producer="8" in="0"/>
+  <entry out="149" producer="9" in="0"/>
+  <entry out="149" producer="10" in="0"/>
+  <entry out="149" producer="11" in="0"/>
+  <entry out="149" producer="12" in="0"/>
+  <entry out="149" producer="13" in="0"/>
+  <entry out="149" producer="14" in="0"/>
+  <entry out="149" producer="15" in="0"/>
+  <entry out="149" producer="16" in="0"/>
+  <entry out="149" producer="17" in="0"/>
+  <entry out="149" producer="18" in="0"/>
+  <entry out="149" producer="19" in="0"/>
+  <entry out="149" producer="20" in="0"/>
+  <entry out="149" producer="21" in="0"/>
+  <entry out="149" producer="22" in="0"/>
+  <entry out="149" producer="23" in="0"/>
+  <entry out="149" producer="24" in="0"/>
+  <entry out="149" producer="25" in="0"/>
+  <entry out="149" producer="26" in="0"/>
+  <entry out="149" producer="27" in="0"/>
+  <entry out="149" producer="28" in="0"/>
+  <entry out="149" producer="29" in="0"/>
+  <entry out="149" producer="30" in="0"/>
+  <entry out="149" producer="31" in="0"/>
+  <entry out="149" producer="32" in="0"/>
+  <entry out="149" producer="33" in="0"/>
+  <entry out="149" producer="34" in="0"/>
+  <entry out="149" producer="35" in="0"/>
+  <entry out="149" producer="36" in="0"/>
+  <entry out="149" producer="37" in="0"/>
+  <entry out="149" producer="38" in="0"/>
+  <entry out="149" producer="39" in="0"/>
+  <entry out="149" producer="40" in="0"/>
+  <entry out="149" producer="41" in="0"/>
+  <entry out="149" producer="42" in="0"/>
+  <entry out="149" producer="43" in="0"/>
+  <entry out="149" producer="44" in="0"/>
+  <entry out="149" producer="45" in="0"/>
+  <entry out="149" producer="46" in="0"/>
+  <entry out="149" producer="47" in="0"/>
+  <entry out="149" producer="48" in="0"/>
+  <entry out="149" producer="49" in="0"/>
+  <entry out="149" producer="50" in="0"/>
+  <entry out="149" producer="51" in="0"/>
+  <entry out="149" producer="52" in="0"/>
+  <entry out="149" producer="53" in="0"/>
+  <entry out="149" producer="54" in="0"/>
+  <entry out="149" producer="55" in="0"/>
+  <entry out="149" producer="56" in="0"/>
+  <entry out="149" producer="57" in="0"/>
+  <entry out="149" producer="58" in="0"/>
+  <entry out="149" producer="59" in="0"/>
+  <entry out="149" producer="60" in="0"/>
+  <entry out="149" producer="61" in="0"/>
+  <entry out="149" producer="62" in="0"/>
+  <entry out="149" producer="63" in="0"/>
+  <entry out="149" producer="64" in="0"/>
+  <entry out="149" producer="65" in="0"/>
+  <entry out="149" producer="66" in="0"/>
+  <entry out="149" producer="67" in="0"/>
+  <entry out="149" producer="68" in="0"/>
+  <entry out="149" producer="69" in="0"/>
+  <entry out="149" producer="70" in="0"/>
+  <entry out="149" producer="71" in="0"/>
+  <entry out="149" producer="72" in="0"/>
+  <entry out="149" producer="73" in="0"/>
+  <entry out="149" producer="74" in="0"/>
+  <entry out="149" producer="75" in="0"/>
+  <entry out="149" producer="76" in="0"/>
+  <entry out="149" producer="77" in="0"/>
+  <entry out="149" producer="78" in="0"/>
+  <entry out="149" producer="79" in="0"/>
+  <entry out="149" producer="80" in="0"/>
+  <entry out="149" producer="81" in="0"/>
+  <entry out="149" producer="82" in="0"/>
+  <entry out="149" producer="83" in="0"/>
+  <entry out="149" producer="84" in="0"/>
+  <entry out="149" producer="85" in="0"/>
+  <entry out="149" producer="86" in="0"/>
+  <entry out="149" producer="87" in="0"/>
+  <entry out="149" producer="88" in="0"/>
+  <entry out="149" producer="89" in="0"/>
+  <entry out="149" producer="90" in="0"/>
+  <entry out="149" producer="91" in="0"/>
+  <entry out="149" producer="92" in="0"/>
+  <entry out="149" producer="93" in="0"/>
+  <entry out="149" producer="94" in="0"/>
+  <entry out="149" producer="95" in="0"/>
+  <entry out="149" producer="96" in="0"/>
+  <entry out="149" producer="97" in="0"/>
+  <entry out="149" producer="98" in="0"/>
+  <entry out="149" producer="99" in="0"/>
+  <entry out="149" producer="100" in="0"/>
+  <entry out="149" producer="101" in="0"/>
+  <entry out="149" producer="102" in="0"/>
+  <entry out="149" producer="103" in="0"/>
+  <entry out="149" producer="104" in="0"/>
+  <entry out="149" producer="105" in="0"/>
+  <entry out="149" producer="106" in="0"/>
+  <entry out="149" producer="107" in="0"/>
+  <entry out="149" producer="108" in="0"/>
+  <entry out="149" producer="109" in="0"/>
+  <entry out="149" producer="110" in="0"/>
+  <entry out="149" producer="111" in="0"/>
+  <entry out="149" producer="112" in="0"/>
+  <entry out="149" producer="113" in="0"/>
+  <entry out="149" producer="114" in="0"/>
+  <entry out="149" producer="115" in="0"/>
+  <entry out="149" producer="116" in="0"/>
+  <entry out="149" producer="117" in="0"/>
+  <entry out="149" producer="118" in="0"/>
+  <entry out="149" producer="119" in="0"/>
+  <entry out="149" producer="120" in="0"/>
+  <entry out="149" producer="121" in="0"/>
+  <entry out="149" producer="122" in="0"/>
+  <entry out="149" producer="123" in="0"/>
+  <entry out="149" producer="124" in="0"/>
+  <entry out="149" producer="125" in="0"/>
+  <entry out="149" producer="126" in="0"/>
+  <entry out="149" producer="127" in="0"/>
+  <entry out="149" producer="128" in="0"/>
+ </playlist>
+ <producer id="black" out="19341" in="0">
+  <property name="length">19342</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="19200" producer="black" in="0"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 1</property>
+  <entry out="149" producer="128" in="0"/>
+  <entry out="149" producer="127" in="0"/>
+  <entry out="149" producer="126" in="0"/>
+  <entry out="149" producer="125" in="0"/>
+  <entry out="149" producer="124" in="0"/>
+  <entry out="149" producer="123" in="0"/>
+  <entry out="149" producer="122" in="0"/>
+  <entry out="149" producer="121" in="0"/>
+  <entry out="149" producer="120" in="0"/>
+  <entry out="149" producer="119" in="0"/>
+  <entry out="149" producer="118" in="0"/>
+  <entry out="149" producer="117" in="0"/>
+  <entry out="149" producer="116" in="0"/>
+  <entry out="149" producer="115" in="0"/>
+  <entry out="149" producer="114" in="0"/>
+  <entry out="149" producer="113" in="0"/>
+  <entry out="149" producer="112" in="0"/>
+  <entry out="149" producer="111" in="0"/>
+  <entry out="149" producer="110" in="0"/>
+  <entry out="149" producer="109" in="0"/>
+  <entry out="149" producer="108" in="0"/>
+  <entry out="149" producer="107" in="0"/>
+  <entry out="149" producer="106" in="0"/>
+  <entry out="149" producer="105" in="0"/>
+  <entry out="149" producer="104" in="0"/>
+  <entry out="149" producer="103" in="0"/>
+  <entry out="149" producer="102" in="0"/>
+  <entry out="149" producer="101" in="0"/>
+  <entry out="149" producer="100" in="0"/>
+  <entry out="149" producer="99" in="0"/>
+  <entry out="149" producer="98" in="0"/>
+  <entry out="149" producer="97" in="0"/>
+  <entry out="149" producer="96" in="0"/>
+  <entry out="149" producer="95" in="0"/>
+  <entry out="149" producer="94" in="0"/>
+  <entry out="149" producer="93" in="0"/>
+  <entry out="149" producer="92" in="0"/>
+  <entry out="149" producer="91" in="0"/>
+  <entry out="149" producer="90" in="0"/>
+  <entry out="149" producer="89" in="0"/>
+  <entry out="149" producer="88" in="0"/>
+  <entry out="149" producer="87" in="0"/>
+  <entry out="149" producer="86" in="0"/>
+  <entry out="149" producer="85" in="0"/>
+  <entry out="149" producer="84" in="0"/>
+  <entry out="149" producer="83" in="0"/>
+  <entry out="149" producer="82" in="0"/>
+  <entry out="149" producer="81" in="0"/>
+  <entry out="149" producer="80" in="0"/>
+  <entry out="149" producer="79" in="0"/>
+  <entry out="149" producer="78" in="0"/>
+  <entry out="149" producer="77" in="0"/>
+  <entry out="149" producer="76" in="0"/>
+  <entry out="149" producer="75" in="0"/>
+  <entry out="149" producer="74" in="0"/>
+  <entry out="149" producer="73" in="0"/>
+  <entry out="149" producer="72" in="0"/>
+  <entry out="149" producer="71" in="0"/>
+  <entry out="149" producer="70" in="0"/>
+  <entry out="149" producer="69" in="0"/>
+  <entry out="149" producer="68" in="0"/>
+  <entry out="149" producer="67" in="0"/>
+  <entry out="149" producer="66" in="0"/>
+  <entry out="149" producer="65" in="0"/>
+  <entry out="149" producer="64" in="0"/>
+  <entry out="149" producer="63" in="0"/>
+  <entry out="149" producer="62" in="0"/>
+  <entry out="149" producer="61" in="0"/>
+  <entry out="149" producer="60" in="0"/>
+  <entry out="149" producer="59" in="0"/>
+  <entry out="149" producer="58" in="0"/>
+  <entry out="149" producer="57" in="0"/>
+  <entry out="149" producer="56" in="0"/>
+  <entry out="149" producer="55" in="0"/>
+  <entry out="149" producer="54" in="0"/>
+  <entry out="149" producer="53" in="0"/>
+  <entry out="149" producer="52" in="0"/>
+  <entry out="149" producer="51" in="0"/>
+  <entry out="149" producer="50" in="0"/>
+  <entry out="149" producer="49" in="0"/>
+  <entry out="149" producer="48" in="0"/>
+  <entry out="149" producer="47" in="0"/>
+  <entry out="149" producer="46" in="0"/>
+  <entry out="149" producer="45" in="0"/>
+  <entry out="149" producer="44" in="0"/>
+  <entry out="149" producer="43" in="0"/>
+  <entry out="149" producer="42" in="0"/>
+  <entry out="149" producer="41" in="0"/>
+  <entry out="149" producer="40" in="0"/>
+  <entry out="149" producer="39" in="0"/>
+  <entry out="149" producer="38" in="0"/>
+  <entry out="149" producer="37" in="0"/>
+  <entry out="149" producer="36" in="0"/>
+  <entry out="149" producer="35" in="0"/>
+  <entry out="149" producer="34" in="0"/>
+  <entry out="149" producer="33" in="0"/>
+  <entry out="149" producer="32" in="0"/>
+  <entry out="149" producer="31" in="0"/>
+  <entry out="149" producer="30" in="0"/>
+  <entry out="149" producer="29" in="0"/>
+  <entry out="149" producer="28" in="0"/>
+  <entry out="149" producer="27" in="0"/>
+  <entry out="149" producer="26" in="0"/>
+  <entry out="149" producer="25" in="0"/>
+  <entry out="149" producer="24" in="0"/>
+  <entry out="149" producer="23" in="0"/>
+  <entry out="149" producer="22" in="0"/>
+  <entry out="149" producer="21" in="0"/>
+  <entry out="149" producer="20" in="0"/>
+  <entry out="149" producer="19" in="0"/>
+  <entry out="149" producer="18" in="0"/>
+  <entry out="149" producer="17" in="0"/>
+  <entry out="149" producer="16" in="0"/>
+  <entry out="149" producer="15" in="0"/>
+  <entry out="149" producer="14" in="0"/>
+  <entry out="149" producer="13" in="0"/>
+  <entry out="149" producer="12" in="0"/>
+  <entry out="149" producer="11" in="0"/>
+  <entry out="149" producer="10" in="0"/>
+  <entry out="149" producer="9" in="0"/>
+  <entry out="149" producer="8" in="0"/>
+  <entry out="149" producer="7" in="0"/>
+  <entry out="149" producer="6" in="0"/>
+  <entry out="149" producer="5" in="0"/>
+  <entry out="149" producer="4" in="0"/>
+  <entry out="149" producer="3" in="0"/>
+  <entry out="149" producer="2" in="0"/>
+  <entry out="149" producer="1" in="0"/>
+ </playlist>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 3</property>
+ </playlist>
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="19200" in="0">
+  <track producer="black_track"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition7">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>

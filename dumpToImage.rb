@@ -38,6 +38,6 @@ ARGV.each do |blob_filename|
       image[index % image_dim, index.div(image_dim)] = ChunkyPNG::Color.rgb(255,0,0)
     end
   end
-  image.save(File.basename(blob_filename, ".*") + ".png")
+  image.save(File.basename(blob_filename, ".*") + File.extname(blob_filename) + ".png")
 end
 

@@ -25,10 +25,12 @@ end
 ARGV.each do |blob_filename|
   puts "Converting #{blob_filename}..."
   blob = File.read(blob_filename)
-  pruned = prune_and_format_chunks(blob)
+  # DON'T PRUNE THE NES IMAGES
+  #pruned = prune_and_format_chunks(blob)
+  pruned = blob.bytes
   image_dim = (Math.sqrt pruned.length).ceil
-  puts "  Blob length: #{blob.length}"
-  puts "  Pruned blob length: #{pruned.length}"
+  #puts "  Blob length: #{blob.length}"
+  #puts "  Pruned blob length: #{pruned.length}"
   puts "  Size: #{image_dim}x#{image_dim}"
   image = ChunkyPNG::Image.new(image_dim, image_dim, ChunkyPNG::Color::BLACK)
   pruned.each.with_index do |b, index|

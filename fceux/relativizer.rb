@@ -93,7 +93,7 @@ if !options.info
   else
     puts "Advanced dump #{curr_frame - 1} frames. Beginning #{options.n_frames} frame write..."
     options.n_frames.times do |d_frame|
-      out_dump = File.open options.out_dump_name + ('%05d' % d_frame), "wb"
+      out_dump = File.open options.out_dump_name + ('%06d' % (d_frame + options.timestep)), "wb"
       out_dump.write dump_blob.pack("C*")
       out_dump.close
       options.dump_diff.each_line do |d|

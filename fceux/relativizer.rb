@@ -9,19 +9,20 @@ options = OpenStruct.new(
   out_dump_name: nil,
   timestep: 0,
   n_frames: nil,
+  steps: :frames,
   info: false
 )
 
 optionparser = OptionParser.new do |opts|
   opts.banner = "Usage: relativizer.rb [options] <base dump> <dump diff> <out dump>"
 
-  opts.on("-t", "--timestep FRAMES", Integer,
-          "Step the dump FRAMES frames into the future.") do |frames|
+  opts.on("-t", "--timestep STEPS", Integer,
+          "Step the dump STEPS steps into the future.") do |frames|
     options.timestep = frames
   end
 
   opts.on("-n", "--n-frames FRAMES", Integer,
-          "Dump n frames beginning from timestep t. If this is unspecified it defaults to 1.") do |n_frames|
+          "Dump n timesteps beginning from timestep t. If this is unspecified it defaults to 1.") do |n_frames|
     options.n_frames = n_frames
   end
 
@@ -29,11 +30,22 @@ optionparser = OptionParser.new do |opts|
           "Print out information about the dump.") do |i|
     options.info = true
   end
+
+  opts.on("-s", "--step-type TYPE", String,
+          "Decide between stepping through FRAMES or INS[tructions]. (default to FRAMES)") do |steps|
+    s = steps.downcase
+    if !(%w{frames ins}.include? s)
+      puts "Unrecognized step type #{steps}."
+      exit
+    else
+      options.steps = s.to_sym
+    end
+  end
 end
 optionparser.parse!
 
 if ARGV.length != 3
-  puts optionparser.banner
+  puts optionparser.help
   exit
 else
   options.base_dump = File.open ARGV[0], "rb"
@@ -93,10 +105,17 @@ if !options.info
   else
     puts "Advanced dump #{curr_frame - 1} frames. Beginning #{options.n_frames} frame write..."
     options.n_frames.times do |d_frame|
-      out_dump = File.open options.out_dump_name + ('%06d' % (d_frame + options.timestep)), "wb"
-      out_dump.write dump_blob.pack("C*")
-      out_dump.close
-      options.dump_diff.each_line do |d|
+      if options.steps = :frames
+        out_dump = File.open options.out_dump_name + ('%06d' % (d_frame + options.timestep)), "wb"
+        out_dump.write dump_blob.pack("C*")
+        out_dump.close
+      end
+      options.dump_diff.each_line.with_index do |d, instruction_number|
+        if options.steps = :ins
+          out_dump = File.open options.out_dump_name + ('%06d' % (d_frame + options.timestep)) + "-" + ('%05d' % (instruction_number)), "wb"
+          out_dump.write dump_blob.pack("C*")
+          out_dump.close
+        end
         if d =~ /(.+):(.+):(.+)/
           curr_frame = $~[1].to_i 16
           break if curr_frame > options.timestep 
